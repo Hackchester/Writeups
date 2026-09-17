@@ -1,0 +1,37 @@
+{
+  "generated": "2026-09-17T23:38:46Z",
+  "ctfs": [
+    {
+      "slug": "DEADFACE CTF 2025",
+      "name": "DEADFACE CTF 2025",
+      "year": "2025"
+    }
+  ],
+  "writeups": [
+    {
+      "id": "2025/DEADFACE CTF 2025/lockpick",
+      "path": "writeups/2025/DEADFACE CTF 2025/lockpick.md",
+      "title": "Lockpick",
+      "authors": [
+        "s0g3king"
+      ],
+      "date": "2025-10-24",
+      "year": "2025",
+      "ctf": "DEADFACE CTF 2025",
+      "category": "Pwn",
+      "categories": [
+        "Pwn",
+        "DEADFACE CTF 2025"
+      ],
+      "tags": [
+        "ret2win",
+        "rop",
+        "bof",
+        "gets"
+      ],
+      "partial_solve": false,
+      "used_ai": false,
+      "excerpt": "A 64-bit ELF, nc lockpick.deadface.io 26697. You have to \"pick a lock\" by"
+    }
+  ]
+}

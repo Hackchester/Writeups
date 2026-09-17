@@ -1,0 +1,11 @@
+# Validates writeups on pull requests.
+name: check writeups
+on:
+  pull_request:
+    paths: ["writeups/**"]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/build_index.py --check
