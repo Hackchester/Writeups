@@ -102,8 +102,3 @@ Images are great, but heavy images slow down our site.
 
 ## 🤝 Need Help?
 Stuck on formatting or git? Drop a message in the Hackchester [Discord server](https://discord.gg/pPenRa2ewq) in the `#ctf-help` channel, and a committee member will help you out!
-
-<div align="center">
-  <i>Happy Hacking! 💻✨</i>
-</div>
-
