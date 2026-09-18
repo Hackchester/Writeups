@@ -43,7 +43,8 @@ def to_list(v):
     v = v.strip()
     if v.startswith("[") and v.endswith("]"):
         return [scalar(x) for x in re.split(r",", v[1:-1]) if x.strip()]
-    return [scalar(x) for x in v.split(",") if x.strip()] if v else []
+    v = scalar(v)  # unquote a fully-quoted value (e.g. "a, b") before splitting
+    return [x.strip() for x in v.split(",") if x.strip()] if v else []
 
 
 def to_bool(v):
