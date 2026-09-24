@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T00:12:28Z",
+  "generated": "2026-09-24T10:24:07Z",
   "ctfs": [
     {
       "slug": "DEADFACE CTF 2025",
@@ -32,6 +32,28 @@
       "partial_solve": false,
       "used_ai": false,
       "excerpt": "A 64-bit ELF, nc lockpick.deadface.io 26697. You have to \"pick a lock\" by"
+    },
+    {
+      "id": "2025/DEADFACE CTF 2025/haunted library",
+      "path": "writeups/2025/DEADFACE CTF 2025/haunted library.md",
+      "title": "Haunted Library",
+      "authors": [
+        "s0g3king"
+      ],
+      "date": "2025-10-24",
+      "year": "2025",
+      "ctf": "DEADFACE CTF 2025",
+      "category": "Pwn",
+      "categories": [
+        "Pwn",
+        "DEADFACE CTF 2025"
+      ],
+      "tags": [
+        "rop"
+      ],
+      "partial_solve": false,
+      "used_ai": false,
+      "excerpt": "Given: hauntedLibrary.7z."
     }
   ]
 }
