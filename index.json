@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T20:39:26Z",
+  "generated": "2026-09-28T20:57:12Z",
   "ctfs": [
     {
       "slug": "SunshineCTF 2026",
@@ -13,6 +13,30 @@
     }
   ],
   "writeups": [
+    {
+      "id": "2026/SunshineCTF 2026/revolution",
+      "path": "writeups/2026/SunshineCTF 2026/revolution.md",
+      "title": "Print Print Revolution",
+      "authors": [
+        "s0g3king"
+      ],
+      "date": "2026-09-28",
+      "year": "2026",
+      "ctf": "SunshineCTF 2026",
+      "category": "Pwn",
+      "categories": [
+        "Pwn",
+        "SunshineCTF 2026"
+      ],
+      "tags": [
+        "format string",
+        "got overwrite",
+        "libc leak"
+      ],
+      "partial_solve": false,
+      "used_ai": false,
+      "excerpt": "We are only given one binary called revolution, served at"
+    },
     {
       "id": "2026/SunshineCTF 2026/mad_libs",
       "path": "writeups/2026/SunshineCTF 2026/mad_libs.md",
