@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T20:06:17Z",
+  "generated": "2026-09-28T20:39:26Z",
   "ctfs": [
     {
       "slug": "SunshineCTF 2026",
@@ -13,6 +13,29 @@
     }
   ],
   "writeups": [
+    {
+      "id": "2026/SunshineCTF 2026/mad_libs",
+      "path": "writeups/2026/SunshineCTF 2026/mad_libs.md",
+      "title": "Mad Libs",
+      "authors": [
+        "s0g3king"
+      ],
+      "date": "2026-09-28",
+      "year": "2026",
+      "ctf": "SunshineCTF 2026",
+      "category": "Pwn",
+      "categories": [
+        "Pwn",
+        "SunshineCTF 2026"
+      ],
+      "tags": [
+        "format string",
+        "got overwrite"
+      ],
+      "partial_solve": false,
+      "used_ai": false,
+      "excerpt": "A 64-bit ELF mad_libs, shipped with its own libc.so.6 and ld, served at"
+    },
     {
       "id": "2026/SunshineCTF 2026/vecnet",
       "path": "writeups/2026/SunshineCTF 2026/vecnet.md",
