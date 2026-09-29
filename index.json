@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T22:13:26Z",
+  "generated": "2026-09-29T16:51:16Z",
   "ctfs": [
     {
       "slug": "SunshineCTF 2026",
@@ -107,6 +107,29 @@
       "partial_solve": false,
       "used_ai": true,
       "excerpt": "Given: https://vec.web.2026.sunshinectf.games/."
+    },
+    {
+      "id": "2026/SunshineCTF 2026/sitecheck",
+      "path": "writeups/2026/SunshineCTF 2026/sitecheck.md",
+      "title": "SiteCheck",
+      "authors": [
+        "arkb"
+      ],
+      "date": "2026-09-26",
+      "year": "2026",
+      "ctf": "SunshineCTF 2026",
+      "category": "Web",
+      "categories": [
+        "Web",
+        "SunshineCTF"
+      ],
+      "tags": [
+        "ssrf",
+        "ping"
+      ],
+      "partial_solve": false,
+      "used_ai": false,
+      "excerpt": "After registering and logging in, we were presented with a URL inspection feature. The server visits the supplied URL, measures page load statistics, and returns a screenshot of th…"
     },
     {
       "id": "2025/DEADFACE CTF 2025/lockpick",
