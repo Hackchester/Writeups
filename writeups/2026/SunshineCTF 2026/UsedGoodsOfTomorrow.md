@@ -60,7 +60,7 @@ Then, checking the values of the fields in the VendorDiagnostics type from earli
 
 With the vendorKey, the promoCodes field becomes accessible:
 
-![](UGoTCodes.png)
+![](../../assets/2026/UsedGoodsofTomorrow/UGoTCodes.png)
 
 The most interesting code here is FOUNDERS-100, which is gives 100% off on Lot #4042, the purchase of which is the objective of the challenge.
 
