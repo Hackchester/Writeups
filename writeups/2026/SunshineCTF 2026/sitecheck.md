@@ -53,6 +53,6 @@ I visited the `/profile` from my browser and saw that there was part of the page
 
 ![sitecheck5](../../assets/2026/sitecheck/sitecheck5.png)
 
-So I submitted `http://[::1]:3000/profile` again but this time as ``http://[::1]:3000/profile#clearance`, and the server responded with the flag:
+So I submitted `http://[::1]:3000/profile` again but this time as `http://[::1]:3000/profile#clearance`, and the server responded with the flag:
 
 ![sitecheck4](../../assets/2026/sitecheck/sitecheck4.png)
