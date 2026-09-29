@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29T17:07:42Z",
+  "generated": "2026-09-29T17:11:42Z",
   "ctfs": [
     {
       "slug": "SunshineCTF 2026",
@@ -130,6 +130,29 @@
       "partial_solve": false,
       "used_ai": false,
       "excerpt": "After registering and logging in, we were presented with a URL inspection feature. The server visits the supplied URL, measures page load statistics, and returns a screenshot of th…"
+    },
+    {
+      "id": "2026/SunshineCTF 2026/UsedGoodsOfTomorrow",
+      "path": "writeups/2026/SunshineCTF 2026/UsedGoodsOfTomorrow.md",
+      "title": "Used Goods of Tomorrow",
+      "authors": [
+        "Calvin Hall"
+      ],
+      "date": "2026-09-26",
+      "year": "2026",
+      "ctf": "SunshineCTF 2026",
+      "category": "Web",
+      "categories": [
+        "Web",
+        "SunshineCTF 2026"
+      ],
+      "tags": [
+        "browser",
+        "api"
+      ],
+      "partial_solve": false,
+      "used_ai": false,
+      "excerpt": "The objective of this web challenge was to purchase the \"Founder's Vault Deed\" item with lot number 4042 from the website. You can create an account, and each account starts with 5…"
     },
     {
       "id": "2025/DEADFACE CTF 2025/lockpick",
