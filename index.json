@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T12:58:37Z",
+  "generated": "2026-11-01T16:54:46Z",
   "ctfs": [
     {
       "slug": "SunshineCTF 2026",
@@ -87,6 +87,30 @@
       "partial_solve": false,
       "used_ai": false,
       "excerpt": "When we connect to the challenge, we see something imitating the well-known DOS emulator, DOSBox. We also see a directory listing, including a FLAG.BIN. Unfortunately, this is just…"
+    },
+    {
+      "id": "2026/FortID CTF 2026/breaking_news",
+      "path": "writeups/2026/FortID CTF 2026/breaking_news.md",
+      "title": "Breaking News",
+      "authors": [
+        "0xdvt"
+      ],
+      "date": "2026-10-10",
+      "year": "2026",
+      "ctf": "FortID CTF 2026",
+      "category": "OSINT",
+      "categories": [
+        "OSINT",
+        "FortID CTF 2026"
+      ],
+      "tags": [
+        "osint",
+        "bluesky",
+        "git"
+      ],
+      "partial_solve": false,
+      "used_ai": false,
+      "excerpt": "Like every other OSINT challenge, when we are given an image, we first look through the metadata using tools like exiftool. Unfortunately, this images metadata was filled with rand…"
     },
     {
       "id": "2026/FortID CTF 2026/baby_misc",
