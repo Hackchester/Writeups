@@ -1,9 +1,14 @@
 {
-  "generated": "2026-11-01T16:54:46Z",
+  "generated": "2026-11-01T17:48:52Z",
   "ctfs": [
     {
       "slug": "SunshineCTF 2026",
       "name": "SunshineCTF 2026",
+      "year": "2026"
+    },
+    {
+      "slug": "Hack-O-Lantern",
+      "name": "Hack-O-Lantern",
       "year": "2026"
     },
     {
@@ -18,6 +23,32 @@
     }
   ],
   "writeups": [
+    {
+      "id": "2026/Hack-O-Lantern/Wait_for_it",
+      "path": "writeups/2026/Hack-O-Lantern/Wait_for_it.md",
+      "title": "Wait For It",
+      "authors": [
+        "0xdvt"
+      ],
+      "date": "2026-11-01",
+      "year": "2026",
+      "ctf": "Hack-O-Lantern",
+      "category": "rev",
+      "categories": [
+        "rev",
+        "Hack-O-Lantern"
+      ],
+      "tags": [
+        "rev",
+        "gdb",
+        "cutter",
+        "hexeditor",
+        "golang"
+      ],
+      "partial_solve": false,
+      "used_ai": false,
+      "excerpt": "Given: challenge file"
+    },
     {
       "id": "2026/FortID CTF 2026/meteor_shower",
       "path": "writeups/2026/FortID CTF 2026/meteor_shower.md",
